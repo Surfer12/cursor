@@ -12,7 +12,6 @@ def factorial(n: Int) -> Int:
     result *= i; # Multiply the result by the current counter value
     i += 1;     # Increment the counter
 
-  print(result); # Print the calculated factorial (may be removed depending on use case)
   return result;  # Return the calculated factorial
 
 def main() -> None:
