@@ -18,5 +18,5 @@ def factorial(n: Int) -> Int:
 def main() -> None:
   print(factorial(5))
 
-main()
+
 
